@@ -1,7 +1,12 @@
 Face Morpher
 ============
 
-This page is folked by Minsung Kang, from https://github.com/alyssaq/face_morpher
+This page is folked by Minsung Kang, from https://github.com/alyssaq/face_morpher.
+
+Minsung Kang, Byung-hee Chang, Doyeon Lee. “Unveiling the Uncanny: Investigating Human Perception of Morphed Facial
+Images with Eeriness-Inducing Robot Integration and Interpretation using Grad-CAM.”
+
+The purpose of this project is to see which part of face makes eeirness when the subject watch the morphedd image by utilizing Grad-CAM methodology.
 
 
 
