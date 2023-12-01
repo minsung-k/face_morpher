@@ -3,7 +3,7 @@ Face Morpher
 
 This page is folked by Minsung Kang, from https://github.com/alyssaq/face_morpher
 
-![Alt Text](https://minsung-k.github.io/blob/master/files/out.gif)
+![Alt Text](https://github.com/minsung-k/minsung-k.github.io/blob/master/files/out.gif)
 
 
 
